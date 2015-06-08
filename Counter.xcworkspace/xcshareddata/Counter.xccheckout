@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>3AF80326-CC92-4109-8918-F39EDB92B65C</string>
+	<string>CAF4A142-7191-4A8E-B59A-405869011469</string>
 	<key>IDESourceControlProjectName</key>
 	<string>Counter</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>github.com:shipio/example-watchkit-app.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Counter.xcodeproj</string>
+	<string>Counter.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>FAF872E938AB340A267FB9E5A7043DE652450C7D</key>
-		<string>../..</string>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>github.com:shipio/example-watchkit-app.git</string>
