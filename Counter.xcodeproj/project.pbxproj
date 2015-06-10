@@ -300,7 +300,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0620;
-				ORGANIZATIONNAME = "Konstantin Koval";
+				ORGANIZATIONNAME = ShipIO;
 				TargetAttributes = {
 					B59BDD7D1A3C218100DE7166 = {
 						CreatedOnToolsVersion = 6.2;
